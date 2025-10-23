@@ -2,7 +2,10 @@
 
 ## 🎯 Objetivo
 Aprender a utilizar o **Git** localmente para versionar projetos, criando commits, branches e manipulando o histórico de forma segura.
+Aprender a como utilizar ele no **GitHub**, tirando dúvidas com **GitFluence** e adicionar colaboradores em repositório privado. 
 
+---
+### Feito pelo professor
 ---
 
 ## 🧱 1. Configuração inicial
@@ -208,11 +211,107 @@ git log --oneline --graph
 ```
 
 ---
+### Feito por mim
+---
+
+## 💻 17. Integrando o Git ao GitHub
+
+**Pré-Requisitos**
+- Conter uma conta no GitHub
+- Ter baixado o Git no computador local
+
+**Configurações no Git**
+Definição de nome e email:
+```bash
+git config --global user.name "seu-nome"
+git config --global user.email "seu.email@exemplo.com"
+```
+
+Verifica se atualizou:
+```bash
+git config --list
+```
+
+**Repositório no GitHub**
+- Acesse sua conta no GitHub
+- Crie um novo repositório privado, chamado 'git-local'
+- Não clique na opção de 'adicionar um README'
+- Copie e adicione o link do repositório do no Git, através do código `clone`:
+``` bash
+git clone https://github.com/nome_do_usuario/git-local
+```
+
+**Branch**
+Mude o nome da branch:
+```bash
+git branch -m master main
+```
+
+**Adicionando Arquivos**
+Crie um arquivo de texto:
+```bash
+echo "Hello World!" > teste.txt
+```
+
+Manda para o **local de preparação** (*Staged*) do Git (*Local Repository*):
+```bash
+git add teste.txt
+```
+
+ou
+
+Todos os arquivos:
+```bash
+git add .
+```
+
+Salva os arquivos no **Git** (*Local Repository*):
+```bash
+git commit -m "Nome versionada main"
+```
+
+Salva todos os arquivos do **Git** (*Local Repository*) para o repositório do **GitHub** (*Remote Repository*):
+```bash
+git push origin main
+```
+
+---
+
+## 🔆 18. GitFluence
+Acesse: [GitFluence](https://www.gitfluence.com/)
+Ele é um auxiliador para comandos no Git
+
+*Como funciona*
+Pergunte a ele o que deseja fazer no Git e ele, SOMENTE, te retornará o código.
+
+**Exemplos**
+Entrada: *"Push the new branch to the remote repository"*
+
+
+Entrada: *"See all my current branches"*
+
+
+Entrada: *"Check the status of my files"*
+
+
+Entrada: *"Como ver as configurações atuais"*
+
+
+Entrada: *"Como comparar a nova atualização com a versão antiga"*
+
+
+---
+
+## 👥 19. Colaboradores ao Repositório Privado
+
+
+---
 
 ## 📘 Créditos
 
 Material criado para fins educacionais na aula prática de **Git Local**,  
 ministrada por *Anderson R. M. Gomes* 🧑‍🏫
+e complementada por *Isaac I. A. de Oliveira* 🙋
 
 ---
 

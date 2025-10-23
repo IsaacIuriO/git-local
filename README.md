@@ -286,19 +286,18 @@ Pergunte a ele o que deseja fazer no Git e ele, SOMENTE, te retornará o código
 
 **Exemplos**
 Entrada: *"Push the new branch to the remote repository"*
-
-
+<img width="1022" height="210" alt="ex1" src="https://github.com/user-attachments/assets/eaf5ad11-030c-4c47-847e-4302db2e8451" />
 Entrada: *"See all my current branches"*
-
+<img width="1021" height="178" alt="ex2" src="https://github.com/user-attachments/assets/e3b3706b-03b9-480b-b66d-5eb66f59f0fb" />
 
 Entrada: *"Check the status of my files"*
-
+<img width="1025" height="185" alt="ex3" src="https://github.com/user-attachments/assets/3f4e0521-e40f-4d84-a860-c2f87edccbe2" />
 
 Entrada: *"Como ver as configurações atuais"*
-
+<img width="1019" height="170" alt="ex4" src="https://github.com/user-attachments/assets/fb602630-a87d-4f92-b6e9-5eb3ec952f57" />
 
 Entrada: *"Como comparar a nova atualização com a versão antiga"*
-
+<img width="1020" height="174" alt="ex5" src="https://github.com/user-attachments/assets/53a89ac6-cef1-48c0-844d-439b1a95c860" />
 
 ---
 

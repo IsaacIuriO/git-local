@@ -303,6 +303,18 @@ Entrada: *"Como comparar a nova atualização com a versão antiga"*
 
 ## 👥 19. Colaboradores ao Repositório Privado
 
+## Adicionando Várias Pessoas a um Repositório PRIVADO
+Seguindo esses passos é possível adicionar colaboradores a sua *fork* e a outros projetos que você crie no futuro:
+- Acesse o Repositório no GitHub.
+- Clique em Settings (Configurações).
+- Na barra lateral esquerda do menu, na seção "Access", clique em Collaborators (Colaboradores).
+- Clique no botão cinza, escrito: Add people (Adicionar pessoas).
+- Pesquise o usuário pelo nome de usuário, nome completo ou endereço de e-mail.
+- Clique no usuário correto.
+- Clique em Add NAME to REPOSITORY (Adicionar NOME ao REPOSITÓRIO).
+- O GitHub enviará um convite por e-mail ao usuário, que deverá aceitá-lo para ter acesso ao repositório privado e poder fazer commits.
+
+*Observação*: É a mesma coisa para o repositório público em contas pessoais, a diferença é: o acesso só é concedido após o aceite do convite nos repositórios privados. 
 
 ---
 

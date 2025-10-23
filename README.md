@@ -2,7 +2,10 @@
 
 ## 🎯 Objetivo
 Aprender a utilizar o **Git** localmente para versionar projetos, criando commits, branches e manipulando o histórico de forma segura.
-Aprender a como utilizar ele no **GitHub**, tirando dúvidas com **GitFluence** e adicionar colaboradores em repositório privado. 
+
+Aprender a como utilizar ele no **GitHub**, tirando dúvidas com **GitFluence** e adicionar colaboradores em repositório privado.
+
+(A atualização feita pelo aluno está na etapa 17)
 
 ---
 ### Feito pelo professor

@@ -219,11 +219,11 @@ git log --oneline --graph
 
 ## 💻 17. Integrando o Git ao GitHub
 
-**Pré-Requisitos**
+### Pré-Requisitos
 - Conter uma conta no GitHub
 - Ter baixado o Git no computador local
 
-**Configurações no Git**
+### Configurações no Git
 Definição de nome e email:
 ```bash
 git config --global user.name "seu-nome"
@@ -235,7 +235,7 @@ Verifica se atualizou:
 git config --list
 ```
 
-**Repositório no GitHub**
+### Repositório no GitHub
 - Acesse sua conta no GitHub
 - Crie um novo repositório privado, chamado 'git-local'
 - Não clique na opção de 'adicionar um README'
@@ -244,13 +244,13 @@ git config --list
 git clone https://github.com/nome_do_usuario/git-local
 ```
 
-**Branch**
+### Branch
 Mude o nome da branch:
 ```bash
 git branch -m master main
 ```
 
-**Adicionando Arquivos**
+### Adicionando Arquivos : Staged | Local Repository | Remote Repository
 Crie um arquivo de texto:
 ```bash
 echo "Hello World!" > teste.txt
@@ -282,7 +282,7 @@ git push origin main
 
 ## 🔆 18. GitFluence
 Acesse: [GitFluence](https://www.gitfluence.com/)
-Ele é um auxiliador para comandos no Git
+Ele é um auxiliador para comandos no Git.
 
 *Como funciona*
 Pergunte a ele o que deseja fazer no Git e ele, SOMENTE, te retornará o código.
@@ -306,7 +306,7 @@ Entrada: *"Como comparar a nova atualização com a versão antiga"*
 
 ## 👥 19. Colaboradores ao Repositório Privado
 
-## Adicionando Várias Pessoas a um Repositório PRIVADO
+### Adicionando Várias Pessoas a um Repositório PRIVADO
 Seguindo esses passos é possível adicionar colaboradores a sua *fork* e a outros projetos que você crie no futuro:
 - Acesse o Repositório no GitHub.
 - Clique em Settings (Configurações).

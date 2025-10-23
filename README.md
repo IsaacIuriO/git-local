@@ -239,7 +239,7 @@ git config --list
 - Acesse sua conta no GitHub
 - Crie um novo repositório privado, chamado 'git-local'
 - Não clique na opção de 'adicionar um README'
-- Copie e adicione o link do repositório do no Git, através do código `clone`:
+- Copie e adicione o link do repositório do GitHub no Git, através do código `clone`:
 ``` bash
 git clone https://github.com/nome_do_usuario/git-local
 ```
@@ -281,6 +281,8 @@ git push origin main
 ---
 
 ## 🔆 18. GitFluence
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f534da4f-b766-4cac-b6ff-f3aa314c5197" />
+
 Acesse: [GitFluence](https://www.gitfluence.com/)
 Ele é um auxiliador para comandos no Git.
 
@@ -310,11 +312,21 @@ Entrada: *"Como comparar a nova atualização com a versão antiga"*
 Seguindo esses passos é possível adicionar colaboradores a sua *fork* e a outros projetos que você crie no futuro:
 - Acesse o Repositório no GitHub.
 - Clique em Settings (Configurações).
+<img width="1903" height="579" alt="settings" src="https://github.com/user-attachments/assets/b1aaadcb-ed50-4e0d-a65c-e30c54013c86" />
+
 - Na barra lateral esquerda do menu, na seção "Access", clique em Collaborators (Colaboradores).
+<img width="1054" height="415" alt="collaborators" src="https://github.com/user-attachments/assets/2e875065-5f2c-46e8-bf84-66a996f481ab" />
+
 - Clique no botão cinza, escrito: Add people (Adicionar pessoas).
+<img width="1168" height="568" alt="add people" src="https://github.com/user-attachments/assets/dd7e2f4c-67e5-4a12-aeb8-19388c4fdffb" />
+
 - Pesquise o usuário pelo nome de usuário, nome completo ou endereço de e-mail.
+<img width="679" height="303" alt="pesquisa_usuario" src="https://github.com/user-attachments/assets/32b857aa-f3c0-486c-ad6b-dc5f688ae3db" />
+
 - Clique no usuário correto.
 - Clique em Add NAME to REPOSITORY (Adicionar NOME ao REPOSITÓRIO).
+<img width="672" height="229" alt="add_usuario" src="https://github.com/user-attachments/assets/0c1ab99b-6d8b-4ce3-b814-cf521889d95a" />
+
 - O GitHub enviará um convite por e-mail ao usuário, que deverá aceitá-lo para ter acesso ao repositório privado e poder fazer commits.
 
 *Observação*: É a mesma coisa para o repositório público em contas pessoais, a diferença é: o acesso só é concedido após o aceite do convite nos repositórios privados. 

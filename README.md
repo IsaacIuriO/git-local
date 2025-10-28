@@ -285,8 +285,7 @@ git push origin main
 
 Acesse: [GitFluence](https://www.gitfluence.com/) - Ele é um auxiliador para comandos no Git.
 
-*Como funciona*
-Pergunte a ele o que deseja fazer no Git e ele, SOMENTE, te retornará o código.
+*Como funciona:* Pergunte a ele o que deseja fazer no Git e ele, SOMENTE, te retornará o código.
 
 **Exemplos**
 Entrada: *"Push the new branch to the remote repository"*

@@ -287,7 +287,7 @@ Acesse: [GitFluence](https://www.gitfluence.com/) - Ele é um auxiliador para co
 
 *Como funciona:* Pergunte a ele o que deseja fazer no Git e ele, SOMENTE, te retornará o código.
 
-**Exemplos**
+### Exemplos
 
 Entrada: *"Push the new branch to the remote repository"*
 <img width="1022" height="210" alt="ex1" src="https://github.com/user-attachments/assets/eaf5ad11-030c-4c47-847e-4302db2e8451" />

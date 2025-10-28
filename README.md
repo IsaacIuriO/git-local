@@ -283,8 +283,7 @@ git push origin main
 ## 🔆 18. GitFluence
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f534da4f-b766-4cac-b6ff-f3aa314c5197" />
 
-Acesse: [GitFluence](https://www.gitfluence.com/)
-Ele é um auxiliador para comandos no Git.
+Acesse: [GitFluence](https://www.gitfluence.com/) - Ele é um auxiliador para comandos no Git.
 
 *Como funciona*
 Pergunte a ele o que deseja fazer no Git e ele, SOMENTE, te retornará o código.
